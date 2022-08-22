@@ -4,4 +4,4 @@ This repo this made beacuse of my friend maanva for his birthday i made a webpag
 
 # screenshot of the web page
 
-![]
+![](/images/
